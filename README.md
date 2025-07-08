@@ -1,12 +1,14 @@
 # solar-power-generation-predictor
 A machine learning-based project aimed at predicting solar power generation using historical weather and generation data. This notebook showcases data preprocessing, feature engineering, and model training to forecast solar energy output.
 
+```
 solar-power-generation-predictor/
 │
 ├── solar_power_generation_predictor.ipynb   # Jupyter notebook with full pipeline
 ├── dataset/                                 # (Recommended) Store dataset files here
 ├── README.md                                # Project documentation
 
+```
  # Features
 📊 Exploratory Data Analysis (EDA) on solar generation dataset
 
