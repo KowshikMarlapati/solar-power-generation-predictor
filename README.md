@@ -21,7 +21,7 @@ solar-power-generation-predictor/
 💡 Prediction of solar power output for given weather conditions
 
 Dataset used: Solar Power Generation Data by Vinay Shetty on Kaggle
-You can access it [https://www.kaggle.com/datasets/vinaymalkani/solar-power-generation-data]
+You can access it [https://www.kaggle.com/datasets/anikannal/solar-power-generation-data]
 
 
 📚 Lessons Learned
