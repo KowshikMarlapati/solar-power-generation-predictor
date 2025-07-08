@@ -26,7 +26,11 @@ You can access it [https://www.kaggle.com/datasets/anikannal/solar-power-generat
 
 📚 Lessons Learned
 Importance of feature correlation in power forecasting
+
 Handling missing values and outliers
+
 Comparing performance of multiple regression models
+
 Visualizing model performance effectively
+
 Insights into renewable energy data analytics
